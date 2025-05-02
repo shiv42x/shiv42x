@@ -65,7 +65,7 @@ Welcome to my corner of the internet! I'm a passionate software engineer focused
 
 🧠 **C++** — Sharpening my skills in memory management, STL, and modern C++ standards through side projects and algorithm practice.  
 
-📐 Exploring performance optimization techniques and system-level programming.
+📐 Exploring performance optimization and graphics techniques in game engines.
 
 ---
 
