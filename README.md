@@ -57,15 +57,6 @@ Welcome to my corner of the internet! I'm a passionate software engineer focused
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
 </a>
 
----
-
-## 🔧 What I'm Currently Working On
-
-📘 Currently reading *Fundamentals of Data Engineering* by Joe Reis & Matt Housley.  
-
-🧠 **C++** — Sharpening my skills in memory management, STL, and modern C++ standards through side projects and algorithm practice.  
-
-📐 Exploring performance optimization and graphics techniques in game engines.
 
 ---
 
