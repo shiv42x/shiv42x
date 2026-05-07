@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Shivam!
 
-Welcome to my corner of the internet! I'm a passionate software engineer focused on building reliable, scalable, and impactful systems. 🚀
+Passionate software engineer focused on building reliable, scalable, and impactful systems. 🚀
 
 ---
 
