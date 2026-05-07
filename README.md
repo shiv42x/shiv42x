@@ -34,7 +34,7 @@ Welcome to my corner of the internet! I'm a passionate software engineer focused
 ---
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/shiv77])
+[LinkedIn](https://www.linkedin.com/in/shiv77)
 
 Thanks for visiting! 💻🎉
 
