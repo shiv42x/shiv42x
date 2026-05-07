@@ -9,7 +9,7 @@ Welcome to my corner of the internet! I'm a passionate software engineer focused
 🎓 Recent graduate with strong foundations in computer science  
 🧠 Constantly learning, iterating, and pushing the boundaries of my skills  
 🌍 Interested in scalable systems, data pipelines, making sense of complex data  
-🧪 Hobbies include low-level programming, game dev/engine architecture, health & fitness  
+🧪 Hobbies include low-level programming, game dev/engine architecture, a lil bit of graphics, health & fitness  
 
 ---
 
